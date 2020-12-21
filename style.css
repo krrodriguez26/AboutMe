@@ -1,0 +1,14 @@
+.navbar-brand{
+    font-size: 30px;    
+}
+
+.navbar-nav {
+ float: right;
+}
+
+.nav-link {
+ font-size: 20px;
+ margin: auto 10px;
+}
+
+
