@@ -13,6 +13,8 @@ Using the Bootstrap CSS Framework the Navbar was added throughout the site, and 
 
 
 Deployed link:
+https://krrodriguez26.github.io/AboutMe/
+
 
 Screenshots:
  
