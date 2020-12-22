@@ -15,5 +15,7 @@ Using the Bootstrap CSS Framework the Navbar was added throughout the site, and 
 Deployed link:
 
 Screenshots:
-
+ 
+ <img src="./images/home.png">
+ 
 
