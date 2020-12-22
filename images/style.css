@@ -1,0 +1,22 @@
+
+
+
+.navbar-brand{
+    font-size: 60px;    
+}
+
+.navbar-nav {
+ float: right;
+}
+
+.nav-link {
+ font-size: 40px;
+ margin: auto 10px;
+}
+
+.img-thumbnail{
+    display: block;
+    height: 100px;
+    width: 100px;
+}
+
