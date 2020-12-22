@@ -16,6 +16,11 @@ Deployed link:
 
 Screenshots:
  
- <img src="./images/home.png">
- 
+ Home Page:
+ ![alt text](https://github.com/krrodriguez26/AboutMe/blob/main/images/home.png)
 
+ Portfolio Page:
+![alt text](https://github.com/krrodriguez26/AboutMe/blob/main/images/portfolio.png)
+
+Conatact Page:
+![alt text](https://github.com/krrodriguez26/AboutMe/blob/main/images/contact.png)
